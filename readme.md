@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+=======
+Devise 2.0 - Rails 3.2 - OmniAuth - Facebook - Username - Twitter Bootstrap
+====
+This is a very basic bootstrapping template that has the following features in place:
+
+* Rails 3.2
+* Devise 2.0
+
+    users can login with either username or email
+    
+* Facebook integration (via OmniAuth)
+
+    users can login with Facebook. I keep track of their username, location, first name, last name, url and token.
+    
+* Twitter Bootstrap framework in SCSS
+
+Installation
+---
+
+Just clone the repo and start hacking on top of it.
+
+* initializers/devise.rb
+change the facebook configuration code and choose what permissions you'd like to ask.
+>>>>>>> 4ffd9d415e6536c322f5b97b270da7b5d50f0207
 
 You need to create a Facebook app and insert http://localhost:3000 as the website
 
@@ -19,3 +44,10 @@ change the mailing method and credentials
     }
 
 
+<<<<<<< HEAD
+=======
+Enjoy
+---
+
+Stefano.
+>>>>>>> 4ffd9d415e6536c322f5b97b270da7b5d50f0207
